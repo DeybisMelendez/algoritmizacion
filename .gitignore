@@ -1,0 +1,49 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Log Files
+*.log
+logs/
+target/
+build/
+
+# IDE specific files
+.idea/
+.classpath
+.project
+.settings/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+nbproject/
+*.swp
+*.bak
+*.tmp
+
+# Maven/Gradle specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.gradle/
+*.iml
+.apt_generated
+.factorypath
+.springBeans
+.sts4/
+
+# OS generated files
+.DS_Store
+.localized
+Thumbs.db
