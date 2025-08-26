@@ -1,10 +1,10 @@
-package semana2;
+package semana3;
 
 import javax.swing.JOptionPane;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
-        int[] notas = new int[50];
+        int[] notas = new int[5];
         int suma = 0;
         double promedio;
 

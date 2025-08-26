@@ -1,4 +1,4 @@
-package semana2;
+package semana3;
 
 import javax.swing.JOptionPane;
 

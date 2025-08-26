@@ -1,10 +1,10 @@
-package semana2;
+package semana3;
 
 import javax.swing.JOptionPane;
 
 public class Ejercicio5 {
     public static void main(String[] args) {
-        int n = 5; // Tamaño del arreglo
+        int n = 5;
         int[] arreglo = new int[n];
         int mayor;
 
@@ -13,7 +13,7 @@ public class Ejercicio5 {
             arreglo[i] = Integer.parseInt(input);
         }
 
-        mayor = arreglo[0]; // El primer elemento es el mayor inicialmente
+        mayor = arreglo[0];
 
         for (int i = 1; i < n; i++) {
             if (arreglo[i] > mayor) {
